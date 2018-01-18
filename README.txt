@@ -19,7 +19,7 @@ In Objective 2
          - worst case complexity o(6*n) construct the map and o(6*n) for searching
 		 
 In Objective 3
-		in the second approach . more optimized and extendable more complicated to read
+		in the third approach . more optimized and extendable more complicated to read
 		- by adding factory pattern so I can read from different datasource but I implemented only file one
 		- add configuration file to handle app properties like file locations and so on
 		- its optimized to o(6*N) so it run faster than the first one
